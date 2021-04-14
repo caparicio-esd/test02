@@ -6,7 +6,7 @@ const data = [
         liked: false,
         picture: "http://placehold.it/320x240",
         author: "http://placehold.it/40x40",
-        likes: 35,
+        likes: 25,
         views: 25,
         registered: "Sat Oct 26 2019 12:29:49 GMT+0000 (UTC)",
         categories: ["cat_04", "cat_05", "cat_07", "cat_08", "hola"],
